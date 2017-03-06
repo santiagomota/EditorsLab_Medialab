@@ -10,6 +10,9 @@ Los proyectos presentados: http://community.globaleditorsnetwork.org/projects_by
 ## Contributors
 
 Alicia Gonzalez
+
 Sara Gil
+
 Santiago Mota
+
 Adolfo Antón
